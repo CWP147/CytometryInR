@@ -115,10 +115,12 @@ website:
       contents: 
       - text: "Concatenate - Extended Cut"
         href: course/10_Downsampling/concatenate.qmd  
-      - text: "Spectral Flow Cytometry"
-        contents:
-          - text: "Retrieving ImmPort data"
-            href: course/SDY3080/ImmPort.qmd
+    - section: "Spectral Flow Cytometry"
+      contents:
+        - text: "Retrieving ImmPort data"
+          href: course/SDY3080/ImmPort.qmd
+        - text: "Cleanup Gates"
+          href: course/SDY3080/SetUp.qmd
     - section: "Community"
       contents:       
       - text: "AutoSpectral"

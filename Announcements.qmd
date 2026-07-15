@@ -44,7 +44,7 @@ For previous course announcements emails, see the links below.
 
 - July 09, 2026 [Cytometry in R - Course Restarting Next Week](https://github.com/UMGCCCFCSR/CytometryInR/discussions/219)
 
-- July 14, 2026 [Cytometry in R - Week # 12 - Spectral Signatures]()
+- July 14, 2026 [Cytometry in R - Week # 12 - Spectral Signatures](https://github.com/UMGCCCFCSR/CytometryInR/discussions/220)
 
 
 ![](images/YouTubeHex.png)

@@ -32,7 +32,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "See Course tab for Course Materials, see YouTube tab for livestream recordings"
+    content: "Welcome Back! See Course tab for Course Materials, see YouTube tab for livestream recordings"
     type: info
     position: below-navbar 
   page-navigation: true 
